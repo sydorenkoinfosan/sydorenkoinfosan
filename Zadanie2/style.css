@@ -1,0 +1,24 @@
+body{
+    background: #c8d4d8;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin-left: 55px;
+    margin-bottom: 30px; 
+}
+
+figcaption{
+    text-align: center;
+}
+
+input{
+    width: 150px;
+    height: 30px;
+    background: red;
+    margin-left: 710px;
+    color: aliceblue;
+}
